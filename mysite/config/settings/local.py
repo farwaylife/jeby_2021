@@ -1,2 +1,2 @@
 from .base import *
-DEBUG = Tr
+DEBUG = True
